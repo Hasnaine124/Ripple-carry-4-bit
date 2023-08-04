@@ -1,0 +1,6 @@
+zviadragSCRATCH9bgjjN491222
+zviadragSCRATCH9bgkLY926016
+zviadragSCRATCH9bgldJ814234
+.oalib
+cdsinfo
+data.dm
